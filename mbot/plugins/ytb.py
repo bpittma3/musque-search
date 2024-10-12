@@ -5,7 +5,7 @@ from mbot import BUG as  LOG_GROUP , LOG_GROUP as DUMP_GROUP
 from pyrogram import filters
 from shutil import rmtree 
 from youtube_search import YoutubeSearch
-from yt-dlp import YoutubeDL
+from yt_dlp import YoutubeDL
 from requests import get
 import traceback,os
 FIXIE_SOCKS_HOST= environ.get('FIXIE_SOCKS_HOST')
