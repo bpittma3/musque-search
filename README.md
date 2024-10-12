@@ -11,6 +11,9 @@
 
 ### Why are audio files not sending?
 > Make sure that FFMpeg is installed! Check the logs for more details. See the image below to add FFMpeg if you are using Heroku.
+> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/bpittma3/NeedMusicRobot/)
+
+
 
 ![Add FFMpeg in Heroku](https://github.com/Masterolic/Spotify-Downloader/assets/93469093/0fbe0591-771a-460b-be69-3fb60536d44d)
 ![Add Python in Heroku](https://github.com/Masterolic/Spotify-Downloader/assets/93469093/6a0c1c9c-4c91-4bac-b6fb-0a40d5516e3c)
